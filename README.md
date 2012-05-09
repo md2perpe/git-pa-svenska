@@ -20,7 +20,7 @@ oss.
     | pull     | pulla          | dra [hem]  |
     | push     | pusha          | trycka     |
     | branch   | brancha        | avgrena    |
-    | commit   | commita        | fästa      |
+    | commit   | commita        | skicka in  |
     | rebase   | rebasa         | ombasera   |
     | merge    | merga          | sammanfoga |
     | stash    | stasha         | gömma      |
@@ -31,7 +31,7 @@ oss.
     | Substantiv   | Nuvarande bruk | Förslag     |
     |--------------+----------------+-------------|
     | branch       | branch         | gren        |
-    | commit       | commit         | befästning  |
+    | commit       | commit         | inskick     |
     | pull request | pull request   | dragbegäran |
     | stash        | stash          | gömma       |
     | tag          | tagg           | märke       |
