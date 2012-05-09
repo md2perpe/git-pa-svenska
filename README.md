@@ -41,6 +41,6 @@ oss.
 
     - Kan du dra grenen jag just ombaserade och tryckte till github?
 
-    - Jag avgrenade alldeles nyss och skickade in ändringarna från min gömma där.
+    - Jag avgrenade alldeles nyss och skickade in ändringarna från mitt undanstopp.
 
     - Skicka en dragbegäran när du är klar med sammanfogningen!
