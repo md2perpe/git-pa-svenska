@@ -17,7 +17,7 @@ oss.
     |----------+----------------+------------|
     | Verb     | Nuvarande bruk | Förslag    |
     |----------+----------------+------------|
-    | pull     | pulla          | dra        |
+    | pull     | pulla          | dra [hem]  |
     | push     | pusha          | trycka     |
     | branch   | brancha        | avgrena    |
     | commit   | commita        | fästa      |
